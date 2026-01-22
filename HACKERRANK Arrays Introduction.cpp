@@ -5,7 +5,7 @@ An array is a series of elements of the same type placed in contiguous memory lo
 
 For arrays of a known size, 10 in this case, use the following declaration:
 
-int arr[10]; //Declares an array named arr of size 10, i.e, you can 
+int arr[10]; //Declares an array named arr of size 10, i.e, you can  
 
 store 10 integers.
 
@@ -61,4 +61,5 @@ int main() {
     }
 
     return 0;
+
 }
